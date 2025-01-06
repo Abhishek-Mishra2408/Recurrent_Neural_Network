@@ -1,0 +1,14 @@
+
+pandas
+numpy
+spacy
+seaborn
+matplotlib
+scipy
+contractions # for fix the contractions
+Scikit-learn
+ipywidgets
+nltk
+contractions  == 0.1.73
+plotly
+nbformat>=4.2.0
