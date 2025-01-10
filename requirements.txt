@@ -12,3 +12,4 @@ nltk
 contractions  == 0.1.73
 plotly
 nbformat>=4.2.0
+tensorflow
